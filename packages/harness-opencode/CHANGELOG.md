@@ -1,5 +1,11 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.191
+
+### Patch Changes
+
+- 486e08f: fix(harness-opencode): prevent nested `AGENTS.md` symlink from bypassing outside-workdir read approval
+
 ## 1.0.190
 
 ### Patch Changes
